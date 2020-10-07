@@ -6,6 +6,8 @@ public class Main
         int button;
         Scanner x = new Scanner(System.in);
 
+        // test test
+
         while (true){
             button = x.nextInt();
 
